@@ -1,0 +1,14 @@
+.wrapper {
+  background-color: #ffe297;
+  border: 1px solid gray;
+  padding: 10px;
+  width: 600px;
+}
+.inner {
+  display: inline-block;
+  vertical-align: middle;
+  width: 400px;
+}
+.inner:first-child {
+  width: 120px;
+}
