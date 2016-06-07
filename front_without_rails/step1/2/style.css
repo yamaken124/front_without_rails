@@ -1,0 +1,18 @@
+.wrapper {
+  border: 1px solid gray;
+  margin: 50px;
+  padding: 20px 0;
+  width: 400px;
+}
+
+.list {
+  background-color: rgba(0, 188, 242, 0.3);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-left: -20px;
+  padding: 4px;
+  width: 100%;
+}
+.list:last-child {
+  margin-bottom: 0;
+}
